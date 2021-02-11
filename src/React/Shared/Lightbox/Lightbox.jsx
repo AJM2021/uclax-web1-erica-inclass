@@ -1,13 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import Light from './Light.jsx';
+import Hi from './Hi.jsx';
 
 const Lightbox = () => {
 
     return (
         <LightboxStyled className='Lightbox'>
-            <Light /> 
+            <Hi /> 
         </LightboxStyled>
     );
 }
