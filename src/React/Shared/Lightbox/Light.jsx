@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const Hi = () => {
+const Light = () => {
 
     return (
         <LightStyled className='Light'>
@@ -10,7 +10,7 @@ const Hi = () => {
     );
 }
 
-export default Hi;
+export default Light;
 
 const LightStyled = styled.div`
     
